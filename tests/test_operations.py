@@ -6,6 +6,6 @@ def test_add():
     assert add(3,7)==10
     
 def test_sub():
-    assert add(2,3)==-1
-    assert add(-1,1)==-2
-    assert add(3,3)==0
+    assert sub(2,3)==-1
+    assert sub(-1,1)==-2
+    assert sub(3,3)==0
